@@ -1,43 +1,42 @@
-👋 Hi, I'm Aman Dubey
-📊 Data Analyst | Python | SQL | Power BI | Excel
+👋 Hi, I’m Aman Dubey  
+📊 Data Analyst | SQL | Python | Tableau | Power BI  
 
-I turn raw data into meaningful insights using analytics, dashboards, and storytelling.
-Currently exploring Data Science and building end-to-end analytics projects.
+I build end-to-end data analytics projects that turn raw data into clear, actionable business insights using SQL, Python, and BI tools.
 
-🔥 About Me
+---
 
-📍 Based in Mumbai
+🔹 About Me
+- 📍 Based in Mumbai, India  
+- 💡 Strong in: SQL, Python (Pandas), Data Cleaning, EDA, Data Visualization  
+- 📈 Interested in: Business Intelligence, Sales Analytics, Forecasting  
+- 🎯 Target Role: Data Analyst / BI Analyst  
 
-🧠 Strong in: SQL, Python (Pandas), Power BI, Data Cleaning, Visualization
+---
 
-📈 Interested in: Business Intelligence, Forecasting, Churn Analysis
+🔹 Featured Projects
 
-🎯 Goal: Become a full-time Data Analyst / BI Analyst
+📌 Walmart Sales Analysis (SQL + Tableau)**  
+- Performed end-to-end retail sales analysis across 45 stores  
+- Analyzed sales trends, seasonality, holiday impact, and store performance  
+- Built interactive Tableau dashboard with forecasting  
+🔗 Repo: https://github.com/AmanDubey8490/walmart-sales-analysis-sql-tableau  
 
-🚀 Featured Projects
-1️⃣ Customer Churn Analysis (Python + Power BI)
+📌 Customer Churn Analysis (Python + Power BI)**  
+- Cleaned and transformed customer data using Python  
+- Performed EDA and churn segmentation  
+- Built interactive Power BI dashboards to identify high-risk customers  
+🔗 Repo: https://github.com/AmanDubey8490/customer-churn-project  
 
-A complete end-to-end analytics project:
+---
 
-Cleaned and transformed dataset using Python
+🔹 Tech Stack
+- Languages:** SQL, Python  
+- Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+- BI Tools:** Tableau, Power BI  
+- Concepts:** EDA, Data Cleaning, Aggregations, Forecasting, Dashboards  
 
-Performed EDA and correlation analysis
+---
 
-Built interactive Power BI dashboards
-
-Identified high-risk churn customer segments
-🔗 Repo: https://github.com/AmanDubey8490/customer-churn-project
-
-🛠 Tech Stack
-
-Languages: Python, SQL
-Libraries: Pandas, NumPy, Matplotlib, Seaborn
-Tools: Power BI, Jupyter Notebook, Excel, GitHub
-Concepts: EDA, Data Cleaning, Dashboards, DAX, ETL
-
-📫 Connect With Me
-
-LinkedIn: (add your LinkedIn link)
-Email: amandubey8490@gmail.com
-
-Looking forward to connecting and collaborating! 🚀
+🔹 Connect With Me
+📧 Email: amandubey8490@gmail.com  
+📍 Mumbai, India
