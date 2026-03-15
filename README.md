@@ -1,6 +1,17 @@
 # 💫 About Me:
 🔭 I’m currently working on Building real-world Data Analytics projects (HR Analytics, business insights dashboards) and strengthening my Python & SQL skills.<br>👯 I’m looking to collaborate on Data analysis projects, beginner-friendly ML projects, and Kaggle competitions focused on business problem-solving.<br>🤝 I’m looking for help with Improving advanced SQL, data storytelling, and preparing for Data Analyst interviews.<br>🌱 I’m currently learning Data Analytics, Machine Learning fundamentals, Power BI, and advanced Python for data processing.<br>💬 Ask me about Data visualization, presentation design, Excel analytics, and beginner Python projects.<br>⚡ Fun fact I transitioned from creative presentation design to data analytics — combining storytelling with numbers.
 
+# 💼 Work Experience:
+
+**Presentation Specialist**  
+**Integreon Managed Solutions Pvt. Ltd.** — Mumbai  
+📅 March 2026 – Present  
+
+- Create and format high-quality business presentations for global corporate clients using Microsoft PowerPoint.  
+- Ensure brand consistency, accuracy, and professional formatting across client deliverables.  
+- Deliver presentation materials under tight deadlines in a fast-paced corporate environment.  
+- Support data-driven reporting and insights through visually structured presentations.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aman-dubey-a0a562354) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@your_da-m7e?si=-jGAiR31382kEiW4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amandubey8490@gmail.com) 
